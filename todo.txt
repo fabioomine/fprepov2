@@ -1,0 +1,22 @@
+OK! criar model de cartões
+OK! criar controller para cartao
+OK! model e controller para telefone
+
+complementar identity com nome, data de nascimento e foto
+
+efetuar pagamento
+
+consultar lojas
+
+
+mudar app para ser o módulo de PF ()
+  BACKEND PF
+  login
+  criação e manutenção de cadastros PF
+  gravação do cartão
+
+
+atualizar user para gerar senha aleatoria e enviar para email
+
+
+**POR ISTO NO GITHUB**
